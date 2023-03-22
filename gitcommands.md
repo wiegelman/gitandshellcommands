@@ -14,4 +14,4 @@
 ## Configurtion Commands
 
 - git configure --global
-
+- git remote add origin Toekn@URL (i.e., https://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@github.com/wiegelman/gitandshellcommands.git)
